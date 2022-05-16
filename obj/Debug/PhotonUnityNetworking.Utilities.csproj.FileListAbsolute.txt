@@ -1,0 +1,2 @@
+E:\Unity\Games\3D Fps game\obj\Debug\PhotonUnityNetworking.Utilities.csproj.AssemblyReference.cache
+E:\Unity\Games\3D Fps game\obj\Debug\PhotonUnityNetworking.Utilities.csproj.CoreCompileInputs.cache
